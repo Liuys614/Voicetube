@@ -13,6 +13,7 @@
   * [關係子句](grammar-1/guan-xi-zi-ju.md)
   * [轉承詞](grammar-1/zhuan-cheng-ci.md)
   * [進階被動語態](grammar-1/jin-jie-bei-dong-yu-tai.md)
+  * [名詞子句](grammar-1/ming-ci-zi-ju.md)
 * [Conversation](conversation-1/README.md)
   * [Perspectives of having kids.](conversation-1/perspectives-of-having-kids..md)
   * [Amazon rainforest fire](conversation-1/amazon-rainforest-fire.md)
