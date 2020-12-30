@@ -1,4 +1,4 @@
-# Animal milk
+# Milk of animals
 
 Why does kangaroo milk contain so much sugar?  
 你認為為何袋鼠的奶糖分含量會這麼高啊？

@@ -12,11 +12,12 @@
   * [Yet 的用法](grammar-1/yet-de-yong-fa.md)
   * [關係子句](grammar-1/guan-xi-zi-ju.md)
   * [轉承詞](grammar-1/zhuan-cheng-ci.md)
+  * [進階被動語態](grammar-1/jin-jie-bei-dong-yu-tai.md)
 * [Conversation](conversation-1/README.md)
   * [Perspectives of having kids.](conversation-1/perspectives-of-having-kids..md)
   * [Amazon rainforest fire](conversation-1/amazon-rainforest-fire.md)
   * [Furniture assembling](conversation-1/furniture-assembling.md)
-  * [Animal milk](conversation-1/anamal-milk.md)
+  * [Milk of animals](conversation-1/anamal-milk.md)
   * [Before dinner](conversation-1/before-dinner.md)
   * [Transgender documentary](conversation-1/transgender-documentary.md)
 
