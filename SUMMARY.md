@@ -18,6 +18,7 @@
   * [轉承詞](grammar-1/zhuan-cheng-ci-1.md)
   * [連接詞 as though / as if](grammar-1/lian-jie-ci-as-though-as-if.md)
   * [進階比較級](grammar-1/jin-jie-bi-jiao-ji.md)
+  * [Neither 與連接詞 Nor 連用](grammar-1/neither-yu-lian-jie-ci-nor-lian-yong.md)
 * [Conversation](conversation-1/README.md)
   * [Perspectives of having kids.](conversation-1/perspectives-of-having-kids..md)
   * [Amazon rainforest fire](conversation-1/amazon-rainforest-fire.md)
@@ -27,5 +28,6 @@
   * [Transgender documentary](conversation-1/transgender-documentary.md)
   * [Coffee](conversation-1/coffee.md)
   * [Speech](conversation-1/speech.md)
-  * [Untitled](conversation-1/untitled.md)
+  * [Restrurant](conversation-1/untitled.md)
+  * [Water shortages](conversation-1/water-shortages.md)
 
