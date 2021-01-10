@@ -33,4 +33,6 @@
   * [Restrurant](conversation-1/untitled.md)
   * [Water shortages](conversation-1/water-shortages.md)
   * [new job](conversation-1/new-job.md)
+  * [cry in the movie](conversation-1/cry-in-the-movie.md)
+  * [auction](conversation-1/auction.md)
 
