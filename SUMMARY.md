@@ -21,6 +21,7 @@
   * [進階比較級](grammar-1/jin-jie-bi-jiao-ji.md)
   * [Neither 與連接詞 Nor 連用](grammar-1/neither-yu-lian-jie-ci-nor-lian-yong.md)
   * [程度副詞](grammar-1/cheng-du-fu-ci.md)
+  * [名詞子句](grammar-1/ming-ci-zi-ju-1.md)
 * [Conversation](conversation-1/README.md)
   * [Perspectives of having kids.](conversation-1/perspectives-of-having-kids..md)
   * [Amazon rainforest fire](conversation-1/amazon-rainforest-fire.md)
