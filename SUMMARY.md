@@ -22,6 +22,8 @@
   * [Neither 與連接詞 Nor 連用](grammar-1/neither-yu-lian-jie-ci-nor-lian-yong.md)
   * [程度副詞](grammar-1/cheng-du-fu-ci.md)
   * [名詞子句](grammar-1/ming-ci-zi-ju-1.md)
+  * [連接詞：when、while、as](grammar-1/lian-jie-ci-whenwhileas.md)
+  * [Another/Other\(s\)/The other\(s\) 的用法](grammar-1/anotherothersthe-others-de-yong-fa.md)
 * [Conversation](conversation-1/README.md)
   * [Perspectives of having kids.](conversation-1/perspectives-of-having-kids..md)
   * [Amazon rainforest fire](conversation-1/amazon-rainforest-fire.md)
@@ -38,4 +40,5 @@
   * [auction](conversation-1/auction.md)
   * [in pain with father's death](conversation-1/in-pain-with-fathers-death.md)
   * [race competition](conversation-1/race-competition.md)
+  * [prom invitation](conversation-1/prom-invitation.md)
 
