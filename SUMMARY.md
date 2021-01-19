@@ -24,6 +24,7 @@
   * [名詞子句](grammar-1/ming-ci-zi-ju-1.md)
   * [連接詞：when、while、as](grammar-1/lian-jie-ci-whenwhileas.md)
   * [Another/Other\(s\)/The other\(s\) 的用法](grammar-1/anotherothersthe-others-de-yong-fa.md)
+  * [第二類條件句](grammar-1/di-er-lei-tiao-jian-ju.md)
 * [Conversation](conversation-1/README.md)
   * [Perspectives of having kids.](conversation-1/perspectives-of-having-kids..md)
   * [Amazon rainforest fire](conversation-1/amazon-rainforest-fire.md)
