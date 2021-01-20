@@ -3,7 +3,7 @@
 Hey, why are you frowning?  
 嘿，你怎麼愁眉苦臉的？
 
-I just found out that I've put on three kilos.  
+I just found out that I've **put on** three kilos.  
 我剛發現我又重了三公斤。
 
 Ouch. You will need some good workouts then.  
@@ -18,7 +18,7 @@ It’s hard; they are so tempting.
 They are like food cues; you will continue caving in unless they are stored in a cupboard where you can’t see them.  
 這就像是「食物暗示」，你要是不把它們放到你看不到的地方，像是櫥櫃哩，你就會一直屈服。
 
-I'm going to work out later in the gym. Care to join me?  
+I'm going to work out later in the gym. **Care to join me?**  
 我待會要去健身房運動，你要不要一起去？
 
 Yeah! That would be nice.  
