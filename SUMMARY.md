@@ -45,4 +45,5 @@
   * [best restaurant in Taipei](conversation-1/best-restaurant-in-taipei.md)
   * [food cues](conversation-1/food-cues.md)
   * [Snoopy museum](conversation-1/snoopy-museum.md)
+  * [Military service](conversation-1/military-service.md)
 
